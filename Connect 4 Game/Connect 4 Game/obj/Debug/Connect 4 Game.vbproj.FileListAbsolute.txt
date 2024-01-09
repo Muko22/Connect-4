@@ -1,0 +1,13 @@
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\bin\Debug\Connect 4 Game.exe.config
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\bin\Debug\Connect 4 Game.exe
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\bin\Debug\Connect 4 Game.pdb
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\bin\Debug\Connect 4 Game.xml
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.vbprojAssemblyReference.cache
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect_4_Game.Form1.resources
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect_4_Game.Resources.resources
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.vbproj.GenerateResource.cache
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.vbproj.CoreCompileInputs.cache
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.exe
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.xml
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\obj\Debug\Connect 4 Game.pdb
+C:\Users\C_PROGRAMS\source\repos\Connect 4 Game\Connect 4 Game\bin\Debug\DB.txt
